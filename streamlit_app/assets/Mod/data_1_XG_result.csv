@@ -1,0 +1,5 @@
+,XGBoost Regressor Dataset 1
+"score (X_train,y_train)",0.05133099224812043
+"score (X_test,y_test)",0.03450930774490457
+"mse(y_pred_train,y_train)",1.0147860476624726
+"mse(y_pred_test,y_test)",2.312861516381432

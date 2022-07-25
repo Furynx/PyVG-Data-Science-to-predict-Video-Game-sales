@@ -1,0 +1,12 @@
+Features,Description,Commentaires
+Rank,Classement,Non utilisable - classement à un instant t
+Name,Nom,clé
+Platform,"Platforme (i.e. PC, PS4, etc.)",Suppression des plateformes trop anciennes <2001
+Year,Année de sortie,on garde
+Genre,Genre,on garde
+Publisher,Editeur,"Notorieté, pérénité"
+NA_Sales,Ventes en Amérique du Nord (en millions),Détail par secteur geographique
+EU_Sales,Ventes en Europe (en millions),Détail par secteur geographique
+JP_Sales,Ventes au Japon (en millions),Detail par secteur geographique
+Other_Sales,Ventes dans le reste du monde (en millions),Detail par secteur geographique
+Global_Sales,Total des ventes,Donnée à prédire

@@ -1,0 +1,9 @@
+﻿Site ;lien;Variables 
+Wikipedia;https://en.wikipedia.org/wiki/Main_Page;"Name;multiplayer;singleplayer;awarded;series"
+Twitch;https://www.twitch.tv/;"Name;Peak Viewers"
+Youtube;https://www.youtube.com/;"viewconut;likecount;commentcount;videotitle;published;description"
+Rawg;https://rawg.io/;"Name;Slug;Playtime;Metacritic;Platforms;Platforms count;Rating;Rating count;Reviews text count;Score;ESRD Rating;Reviews count;Genres;Released;Rawg_id;Suggestions count"
+how long to beat;https://howlongtobeat.com/;"Name;Main story duration;Duration hrs"
+metacritics;metacritic.com;"Name;Platform;Release_date;Genre;Meta_Critic_Score;Meta_User_Score;Publisher;Developer;N_Critic_Reviews;N_User_Reviews"
+igdb;https://www.igdb.com/api;"Name;Franchise;Rating igdb;Rating count igdb;Follows igdb;Name normalizes"
+jeuxvideo.com;https://www.jeuxvideo.com/;"Name;Critic_Score;N_usereviews;User_Score;genre;Year;Platform"
