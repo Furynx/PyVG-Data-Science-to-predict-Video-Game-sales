@@ -1,3 +1,3 @@
-client_id= 'nUDluxLuuj5Yo-LRQBg84g'
-client_secret= 'Zm4tcSLJfX7CCQ6bj-GtQq4lE7vWJg'
-user_agent= 'General userscript for /u/Furynx'
+client_id= 'Put your PRAW id here'
+client_secret= 'Put your secret code here'
+user_agent= 'Put your user agent here'
